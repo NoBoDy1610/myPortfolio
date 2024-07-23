@@ -1,0 +1,85 @@
+.App {
+	text-align: center;
+}
+
+.myImage {
+	border-radius: 20px 20px 0px 0px;
+	height: 40vmin;
+	pointer-events: none;
+	width: 500px;
+}
+
+.App-header {
+	border-radius: 20px 20px 0px 0px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #282c34;
+	height: 575px;
+	max-width: 500px;
+	display: flex;
+	flex-direction: column;
+	font-size: calc(10px + 2vmin);
+	color: white;
+}
+
+.App-header > h2,
+.App-header > h4,
+.App-header > h6 {
+	margin: 0px;
+}
+
+.emailButton {
+	height: 50px;
+	margin: auto;
+	margin-block-start: 0px;
+	width: 300px;
+	background-color: rgb(176, 188, 198);
+	border-radius: 5px;
+	font-size: 24px;
+}
+
+.about,
+.interests {
+	padding-top: 5px;
+	margin: auto;
+	width: 500px;
+	height: 140px;
+	text-align: start;
+	background-color: slategray;
+	color: white;
+}
+
+div > h2 {
+	margin-left: 10px;
+	margin: 10px;
+	height: 10px;
+	padding: 5px;
+}
+
+.text-About,
+.text-Interests {
+	p {
+		padding: 10px;
+	}
+}
+
+.App-footer {
+	background-color: darkgrey;
+	border-radius: 0px 0px 20px 20px;
+	margin: auto;
+	height: 64px;
+	width: 500px;
+}
+
+.fa-facebook,
+.fa-instagram,
+.fa-twitter,
+.fa-linkedin,
+.fa-github {
+	width: 25px;
+	font-size: 32px;
+}
+
+.btn {
+	margin: 10px;
+}
