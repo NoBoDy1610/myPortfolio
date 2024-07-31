@@ -93,7 +93,3 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 - Inspiration and guidance from the frontend development community.
 - Support from family and friends.
-
----
-
-Feel free to replace placeholders like `yourusername`, `your-repo-name`, `yourprofile`, and any other specific details with your actual information. If there's anything else you'd like to add or modify, let me know!
