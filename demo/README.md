@@ -1,7 +1,3 @@
-Thanks for sharing the image of your project! Based on the provided information, I'll draft a README file for your project. If you have any additional information or specific details you would like included, please let me know.
-
----
-
 # Nikodem Czubak - Personal Portfolio
 
 This is the personal portfolio website for Nikodem Czubak, a Frontend Developer. The website showcases Nikodem's skills, interests, and contact information.
